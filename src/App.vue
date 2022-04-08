@@ -21,3 +21,9 @@ export default {
   }),
 }
 </script>
+
+<style lang="scss">
+* {
+  font-family: "Cica";
+}
+</style>
